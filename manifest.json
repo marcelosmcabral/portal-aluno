@@ -1,0 +1,15 @@
+{
+  "name": "Portal do Aluno",
+  "short_name": "Portal",
+  "start_url": "portal.html",
+  "display": "standalone",
+  "background_color": "#08263e",
+  "theme_color": "#08263e",
+  "icons": [
+    {
+      "src": "icon_senac.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
